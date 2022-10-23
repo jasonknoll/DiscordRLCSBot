@@ -16,11 +16,13 @@ public class Bot
 
         _client.Log += Log;
 
+        // grab credentials
         var text = File.ReadAllText(URL_TO_AUTH);
         var tokenDict = JsonConvert.DeserializeObject<Dictionary<string,string>>(text);
         
         string token = tokenDict["token"].ToString();
 
+        // turn on bot
         await _client.LoginAsync(TokenType.Bot, token);
         await _client.StartAsync();
 
