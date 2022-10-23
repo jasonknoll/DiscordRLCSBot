@@ -9,3 +9,14 @@
 ## Features
 ---
 * With Discord commands, control the bot and request information
+  * get player stats
+  * game/match stats
+  * league/split stats
+  * list upcoming matches
+  * list standings maybe
+  * top scorers maybe?? that could be cool idk
+
+* Advanced Ideas
+  * Generate visualizations from commands
+  * cache data to prevent too many api calls
+  * 
