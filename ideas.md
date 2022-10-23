@@ -8,4 +8,4 @@
 
 ## Features
 ---
-* Display
+* With Discord commands, control the bot and request information
