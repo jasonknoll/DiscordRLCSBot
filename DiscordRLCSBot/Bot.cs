@@ -30,7 +30,7 @@ public class Bot
     }
 
     /**
-    * Simple logging message
+    * Simple logging message -- following Discord.NET tutorial
     */
     private Task Log(LogMessage msg)
     {

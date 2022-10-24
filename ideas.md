@@ -2,7 +2,7 @@
 
 ## Language
 ---
-* Python -> Fun to use, currently knowledgeable
+* Python -> Fun to use, currently knowledgeable, easy-to-use discord library 
 * C# -> Better than java imo, but not very good at it. Useful in make personal projects to benefit my skills at work. Discord.NET seems to be a fairly complex in its OOP structure so I need to take time and actually read the documentation. 
 * Java -> no
 
