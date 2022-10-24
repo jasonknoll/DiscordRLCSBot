@@ -11,6 +11,7 @@ using Discord.Commands;
 using System;
 using System.Threading.Tasks;
 using DSharpPlus; // TODO still need to install from NuGet!
+using Newtonsoft.Json;
 
 
 public class Bot
