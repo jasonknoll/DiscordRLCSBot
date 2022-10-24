@@ -22,7 +22,7 @@ public class Bot
         
         string token = tokenDict["token"].ToString();
 
-        // turn on bot
+        // bot login
         await _client.LoginAsync(TokenType.Bot, token);
         await _client.StartAsync();
 
