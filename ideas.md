@@ -19,6 +19,8 @@ https://zsr.octane.gg
   * get player stats
     * `!!playerstats {player-id}`
     * I don't really know which features I want so this will probably change
+    * average mph in game or just top speed
+ 
   * game/match stats
     * `!!matchstats {match-id}`
   * league/split stats
@@ -26,6 +28,7 @@ https://zsr.octane.gg
     * `!!upcoming {params}`
   * list standings/rankings maybe
   * top scorers maybe?? that could be cool idk
+  
 
 * Advanced Ideas
   * Generate visualizations from commands
