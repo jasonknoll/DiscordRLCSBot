@@ -15,7 +15,7 @@ using DSharpPlus; // TODO still need to install from NuGet!
 
 public class Bot
 {
-    public static Task Main(String[] args) => new Bot().MainAsync().GetAwaiter().GetResult;
+    public static Task Main(String[] args) => new Bot().MainAsync().GetAwaiter().GetResult();
 
     // client object
     private DiscordClient _client;
