@@ -3,7 +3,7 @@
 ## Language
 ---
 * Python -> Fun to use, currently knowledgeable
-* C# -> Better than java imo, but not very good at it. Useful in make personal projects to benefit my skills at work.
+* C# -> Better than java imo, but not very good at it. Useful in make personal projects to benefit my skills at work. Discord.NET seems to be a fairly complex in its OOP structure so I need to take time and actually read the documentation. 
 * Java -> no
 
 ## API
@@ -33,4 +33,6 @@ feature must go through some form of *beta* stage. I need to test
 everything completely to my highest standards (realistically) so
 that my bot isn't broken all the time. 
 
-Once tested I can move onto another feature. 
+Once tested I can move onto another feature. Rinse and repeat until 
+the project is completed.
+
