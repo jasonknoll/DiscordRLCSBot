@@ -17,10 +17,14 @@ https://zsr.octane.gg
 ---
 * With Discord commands, control the bot and request information
   * get player stats
+    * `!!playerstats {player-id}`
+    * I don't really know which features I want so this will probably change
   * game/match stats
+    * `!!matchstats {match-id}`
   * league/split stats
   * list upcoming matches
-  * list standings maybe
+    * `!!upcoming {params}`
+  * list standings/rankings maybe
   * top scorers maybe?? that could be cool idk
 
 * Advanced Ideas
